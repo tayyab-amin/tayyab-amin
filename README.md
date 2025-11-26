@@ -65,12 +65,9 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tayyab-amin&show_icons=true&theme=tokyonight&hide_border=true&card_width=1000)](https://github.com/tayyab-amin)  
-
----
-
+  
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=tayyab-amin&theme=tokyo-night&hide_border=true)](https://github.com/tayyab-amin)  
+
 </p>
 
 <p align="center">
