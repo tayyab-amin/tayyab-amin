@@ -62,9 +62,9 @@
 
 ---
 
-## 📊 GitHub Stats
 
-<!-- <p align="center">
+<!-- ## 📊 GitHub Stats
+<p align="center">
   [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=tayyab-amin&theme=tokyo-night&hide_border=true)](https://github.com/tayyab-amin)  
 </p> -->
 
