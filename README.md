@@ -70,7 +70,7 @@
   &nbsp;&nbsp;&nbsp;&nbsp;
 
   <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-  <span style="margin-left:10px; font-size:16px;">TypeScript</span>
+  <!-- <span style="margin-left:10px; font-size:16px;">TypeScript</span -->
   &nbsp;&nbsp;&nbsp;&nbsp;
 
   <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
