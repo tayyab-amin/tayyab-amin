@@ -66,7 +66,7 @@
 ### 💻 Frontend
 <p align="left">
   <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" />
-  <span style="margin-left:10px; font-size:16px;">Angular</span>
+  <!-- <span style="margin-left:10px; font-size:16px;">Angular</span> -->
   &nbsp;&nbsp;&nbsp;&nbsp;
 
   <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
@@ -74,15 +74,15 @@
   &nbsp;&nbsp;&nbsp;&nbsp;
 
   <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <span style="margin-left:10px; font-size:16px;">JavaScript</span>
+  <!-- <span style="margin-left:10px; font-size:16px;">JavaScript</span> -->
   &nbsp;&nbsp;&nbsp;&nbsp;
 
   <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
-  <span style="margin-left:10px; font-size:16px;">SCSS / SASS</span>
+  <!-- <span style="margin-left:10px; font-size:16px;">SCSS / SASS</span> -->
   &nbsp;&nbsp;&nbsp;&nbsp;
 
   <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
-  <span style="margin-left:10px; font-size:16px;">Bootstrap</span>
+  <!-- <span style="margin-left:10px; font-size:16px;">Bootstrap</span> -->
 </p>
 
 ---
@@ -90,19 +90,19 @@
 ### ⚙ Backend & Databases
 <p align="left">
   <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  <span style="margin-left:10px; font-size:16px;">Node.js</span>
+  <!-- <span style="margin-left:10px; font-size:16px;">Node.js</span> -->
   &nbsp;&nbsp;&nbsp;&nbsp;
 
   <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/strapi/strapi-original.svg" />
-  <span style="margin-left:10px; font-size:16px;">Strapi</span>
+  <!-- <span style="margin-left:10px; font-size:16px;">Strapi</span> -->
   &nbsp;&nbsp;&nbsp;&nbsp;
 
   <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
-  <span style="margin-left:10px; font-size:16px;">Firebase</span>
+  <!-- <span style="margin-left:10px; font-size:16px;">Firebase</span> -->
   &nbsp;&nbsp;&nbsp;&nbsp;
 
   <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
-  <span style="margin-left:10px; font-size:16px;">PostgreSQL</span>
+  <!-- <span style="margin-left:10px; font-size:16px;">PostgreSQL</span> -->
 </p>
 
 ---
@@ -110,19 +110,19 @@
 ### 🧰 Tools & Platforms
 <p align="left">
   <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <span style="margin-left:10px; font-size:16px;">Git</span>
+  <!-- <span style="margin-left:10px; font-size:16px;">Git</span> -->
   &nbsp;&nbsp;&nbsp;&nbsp;
 
   <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-  <span style="margin-left:10px; font-size:16px;">GitHub</span>
+  <!-- <span style="margin-left:10px; font-size:16px;">GitHub</span> -->
   &nbsp;&nbsp;&nbsp;&nbsp;
 
   <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" />
-  <span style="margin-left:10px; font-size:16px;">Jira</span>
+  <!-- <span style="margin-left:10px; font-size:16px;">Jira</span> -->
   &nbsp;&nbsp;&nbsp;&nbsp;
 
   <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" />
-  <span style="margin-left:10px; font-size:16px;">Trello</span>
+  <!-- <span style="margin-left:10px; font-size:16px;">Trello</span> -->
 </p>
 
 
