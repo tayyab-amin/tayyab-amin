@@ -64,9 +64,50 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
+<!-- <p align="center">
   [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=tayyab-amin&theme=tokyo-night&hide_border=true)](https://github.com/tayyab-amin)  
+</p> -->
+
+
+## 📊 GitHub Stats & Analytics
+
+<!-- Contribution Graph -->
+<p align="center">
+  <a href="https://github.com/tayyab-amin">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=tayyab-amin&theme=tokyo-night&hide_border=true" />
+  </a>
 </p>
+
+<!-- Stats + Streak -->
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=tayyab-amin&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=tayyab-amin&theme=tokyonight&hide_border=true" />
+</p>
+
+<!-- Languages -->
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tayyab-amin&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<!-- Profile Trophy -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=tayyab-amin&theme=tokyonight&no-frame=true&margin-w=15&row=1" />
+</p>
+
+<!-- Profile Badges -->
+<p align="center">
+  <img src="https://img.shields.io/github/followers/tayyab-amin?label=Followers&style=for-the-badge&color=0E8EE9" />
+  <img src="https://img.shields.io/github/stars/tayyab-amin?label=Stars&style=for-the-badge&color=F7C51D" />
+  <img src="https://komarev.com/ghpvc/?username=tayyab-amin&style=for-the-badge&color=brightgreen" />
+</p>
+
+<!-- Stats Badges -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Code%20Quality-High-brightgreen?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Commits-Consistent-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Open%20Source-Active-orange?style=for-the-badge" />
+</p>
+
 
 
 ---
