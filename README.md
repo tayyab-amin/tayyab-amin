@@ -10,7 +10,7 @@
 
 ## 🔗 Connect With Me
 
-<p align="center">
+<!-- <p align="center">
   <a href="mailto:tayyab.amin313.ta@gmail.com">
     <img src="https://img.shields.io/badge/Email-ff5349?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
@@ -20,6 +20,27 @@
   <a href="https://github.com/tayyab-amin" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+</p> -->
+
+<p align="center">
+
+  <!-- Email -->
+  <a href="mailto:tayyab.amin313.ta@gmail.com">
+    <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="email icon" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+
+  <!-- LinkedIn -->
+  <a href="https://linkedin.com/in/tayyab-amin" target="_blank">
+    <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin icon" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+
+  <!-- GitHub -->
+  <a href="https://github.com/tayyab-amin" target="_blank">
+    <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github icon" />
+  </a>
+
 </p>
 
 ---
