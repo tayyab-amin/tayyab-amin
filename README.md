@@ -33,32 +33,98 @@
 
 ---
 
-## 🛠️ Tech Stack & Tools
+<!-- ## 🛠️ Tech Stack & Tools -->
 
-### 💻 Frontend
-<p align="left">
+<!-- ### 💻 Frontend -->
+<!-- <p align="left">
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/SCSS-CD6799?style=for-the-badge&logo=sass&logoColor=white"/>
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-</p>
+</p> -->
 
-### ⚙ Backend & Databases
-<p align="left">
+<!-- ### ⚙ Backend & Databases -->
+<!-- <p align="left">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Strapi-4945FF?style=for-the-badge&logo=strapi&logoColor=white"/>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-</p>
+</p> -->
 
-### 🧰 Tools & Platforms
-<p align="left">
+<!-- ### 🧰 Tools & Platforms -->
+<!-- <p align="left">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
+</p> -->
+
+
+## 🛠️ Tech Stack & Tools
+
+### 💻 Frontend
+<p align="left">
+  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" />
+  <span style="margin-left:10px; font-size:16px;">Angular</span>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+
+  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+  <span style="margin-left:10px; font-size:16px;">TypeScript</span>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+
+  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <span style="margin-left:10px; font-size:16px;">JavaScript</span>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+
+  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
+  <span style="margin-left:10px; font-size:16px;">SCSS / SASS</span>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+
+  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+  <span style="margin-left:10px; font-size:16px;">Bootstrap</span>
 </p>
+
+---
+
+### ⚙ Backend & Databases
+<p align="left">
+  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  <span style="margin-left:10px; font-size:16px;">Node.js</span>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+
+  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/strapi/strapi-original.svg" />
+  <span style="margin-left:10px; font-size:16px;">Strapi</span>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+
+  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
+  <span style="margin-left:10px; font-size:16px;">Firebase</span>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+
+  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+  <span style="margin-left:10px; font-size:16px;">PostgreSQL</span>
+</p>
+
+---
+
+### 🧰 Tools & Platforms
+<p align="left">
+  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <span style="margin-left:10px; font-size:16px;">Git</span>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+
+  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+  <span style="margin-left:10px; font-size:16px;">GitHub</span>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+
+  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" />
+  <span style="margin-left:10px; font-size:16px;">Jira</span>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+
+  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" />
+  <span style="margin-left:10px; font-size:16px;">Trello</span>
+</p>
+
 
 ---
 
