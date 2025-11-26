@@ -65,8 +65,15 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=tayyab-amin&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=tayyab-amin&theme=tokyonight" />
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tayyab-amin&layout=compact&theme=tokyonight&langs_count=8&hide_border=true&card_width=1000)](https://github.com/tayyab-amin)  
+
+---
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tayyab-amin&show_icons=true&theme=tokyonight&hide_border=true&card_width=1000)](https://github.com/tayyab-amin)  
+
+---
+
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=tayyab-amin&theme=tokyo-night&hide_border=true)](https://github.com/tayyab-amin)  
 </p>
 
 <p align="center">
