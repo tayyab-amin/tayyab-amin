@@ -65,9 +65,6 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tayyab-amin&layout=compact&theme=tokyonight&langs_count=8&hide_border=true&card_width=1000)](https://github.com/tayyab-amin)  
-
----
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tayyab-amin&show_icons=true&theme=tokyonight&hide_border=true&card_width=1000)](https://github.com/tayyab-amin)  
 
