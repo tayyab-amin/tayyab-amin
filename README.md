@@ -201,7 +201,7 @@
 
 ## 🧠 Summary
 
-✔ 4+ years of experience in full-stack and frontend development  
+✔ 5+ years of experience in full-stack and frontend development  
 ✔ Strong expertise in Angular, TypeScript, and scalable architecture  
 ✔ Experience delivering enterprise solutions across multiple domains  
 ✔ Skilled in leading sprints, mentoring developers & coordinating with stakeholders  
