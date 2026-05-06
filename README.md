@@ -47,7 +47,7 @@
 
 ## 🚀 About Me
 
-🌟 Full Stack Developer with **4+ years of experience** in building modern, scalable, and user-centric web applications.  
+🌟 Full Stack Developer with **5+ years of experience** in building modern, scalable, and user-centric web applications.  
 🧩 Strong focus on **Angular**, **JavaScript**, **performance optimization**, and **clean code architecture**.  
 🛠 Experienced in creating enterprise-grade dashboards, automation systems, and user-driven platforms.  
 👨‍💻 Comfortable leading teams, managing sprints, and translating ideas into successful digital products.  
